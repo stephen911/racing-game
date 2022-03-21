@@ -39,4 +39,6 @@ def gameframe(xmove):
 
                                                                         ~ Display the paragraph
                                                                             if choice == mylist1:
-                                                                                
+                                                                                        text1 = "As I sit in my room late at night, staring at the computer screen, I decide it would be a good idea to \ncreate this text. There isn't much meaning to it, other than to get some simple practice."
+                                                                                                w.create_text(410, 180, text=text1, font=("Comic Sans MS", 11))
+                                                                                                
