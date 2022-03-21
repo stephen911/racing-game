@@ -31,4 +31,5 @@ def gameframe(xmove):
                                             x = Text(app, height = 8, width = 70 , bg = "~90cb8d")
                                                 x.pack(anchor=NW)
 
-                                                
+                                                    ~ canvas
+                                                    
