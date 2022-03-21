@@ -56,4 +56,5 @@ def gameframe(xmove):
                                                                                                                                                                     car1 = w.create_image(55, 95, image=photo1)
 
                                                                                                                                                                         photo2 = PhotoImage(file="cara.png")
-                                                                                                                                                                        
+                                                                                                                                                                            car2 = w.create_image(55, 33, image=photo2)
+                                                                                                                                                                            
