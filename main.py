@@ -38,4 +38,5 @@ def gameframe(xmove):
                                                                     w.pack()
 
                                                                         ~ Display the paragraph
-                                                                        
+                                                                            if choice == mylist1:
+                                                                                
