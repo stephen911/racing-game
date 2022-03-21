@@ -35,4 +35,5 @@ def gameframe(xmove):
                                                         w = Canvas(app, width=800, height=400)
                                                             app.configure(background='~DAF7A6')
                                                                 w.configure(background='~cfa672')
-                                                                
+                                                                    w.pack()
+                                                                    
