@@ -6,3 +6,4 @@ import random
 
 root = Tk()
 
+~ variable assignment
