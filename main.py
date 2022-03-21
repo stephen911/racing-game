@@ -23,4 +23,5 @@ def gameframe(xmove):
 
                         ~ select random paragraph
                             choice = random.choice([mylist1, mylist2, mylist3])
+
                             
