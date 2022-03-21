@@ -37,4 +37,5 @@ def gameframe(xmove):
                                                                 w.configure(background='~cfa672')
                                                                     w.pack()
 
-                                                                    
+                                                                        ~ Display the paragraph
+                                                                        
