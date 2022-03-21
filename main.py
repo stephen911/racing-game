@@ -10,3 +10,4 @@ root = Tk()
 speed1 = 0
 count = 0
 i = 0
+speed2 = 0
