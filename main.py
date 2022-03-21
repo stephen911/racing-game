@@ -43,4 +43,5 @@ def gameframe(xmove):
                                                                                                 w.create_text(410, 180, text=text1, font=("Comic Sans MS", 11))
                                                                                                     if choice == mylist2:
                                                                                                                 text2 = "An appraisal invites the bond. The wine breaks an instructed employer underneath an economics. \nThe domestic exits near a servant. An ancient comic sweeps. A fashioned autumn stumbles inside \na criminal"
-                                                                                                                
+                                                                                                                        w.create_text(410, 180, text=text2, font=("Comic Sans MS", 11))
+                                                                                                                        
