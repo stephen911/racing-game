@@ -26,4 +26,5 @@ def gameframe(xmove):
 
                                 app.geometry("800x400")
                                     app.title("TypeRacer")
+
                                     
