@@ -72,4 +72,5 @@ def gameframe(xmove):
                                                                                                                                                                                                                                             frame6.place(x=340, y=30)
                                                                                                                                                                                                                                                 Label(frame6, text="  Go  ", font=("Magneto", 36), background="~F39C12").pack(anchor=NW)
                                                                                                                                                                                                                                                     frame6.after(4000, destroy_frame6)
+
                                                                                                                                                                                                                                                     
