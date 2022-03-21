@@ -69,4 +69,5 @@ def gameframe(xmove):
                                                                                                                                                                                                                                     frame4.destroy()
 
                                                                                                                                                                                                                                         frame6 = Frame(w, width=60, height=60)
-                                                                                                                                                                                                                                        
+                                                                                                                                                                                                                                            frame6.place(x=340, y=30)
+                                                                                                                                                                                                                                            
