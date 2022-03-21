@@ -49,4 +49,5 @@ def gameframe(xmove):
                                                                                                                                                 w.create_text(400, 180, text=text3, font=("Comic Sans MS", 11))
 
                                                                                                                                                     ~ road and cars
-                                                                                                                                                    
+                                                                                                                                                        photo3 = PhotoImage(file="road4.png")
+                                                                                                                                                        
