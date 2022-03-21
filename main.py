@@ -18,4 +18,5 @@ def gameframe(xmove):
         app = Tk()
 
             mylist1 = "As I sit in my room late at night, staring at the computer screen, I decide it would be a good idea to create this text. There isn't much meaning to it, other than to get some simple practice."
-            
+                mylist2 = "An appraisal invites the bond. The wine breaks an instructed employer underneath an economics. The domestic exits near a servant. An ancient comic sweeps. A fashioned autumn stumbles inside a criminal"
+                
