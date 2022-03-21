@@ -46,4 +46,6 @@ def gameframe(xmove):
                                                                                                                         w.create_text(410, 180, text=text2, font=("Comic Sans MS", 11))
                                                                                                                             if choice == mylist3:
                                                                                                                                         text3 = "Lines of weeds criss crossed the cracked parking lot of the Seashell Motor Courts. The flaking paint on the \nbuildings had chalked to a pastel pink on walls covered with graffiti. Many of the windows had been \nsmashed out. Where the sign had been, atop rusting steel posts, only the metal outline of a seashell remained."
-                                                                                                                                        
+                                                                                                                                                w.create_text(400, 180, text=text3, font=("Comic Sans MS", 11))
+
+                                                                                                                                                
