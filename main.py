@@ -58,4 +58,5 @@ def gameframe(xmove):
                                                                                                                                                                         photo2 = PhotoImage(file="cara.png")
                                                                                                                                                                             car2 = w.create_image(55, 33, image=photo2)
 
-                                                                                                                                                                            
+                                                                                                                                                                                def destroy_frame6():
+                                                                                                                                                                                    
