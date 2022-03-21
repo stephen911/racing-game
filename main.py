@@ -25,4 +25,5 @@ def gameframe(xmove):
                             choice = random.choice([mylist1, mylist2, mylist3])
 
                                 app.geometry("800x400")
-                                
+                                    app.title("TypeRacer")
+                                    
