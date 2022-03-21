@@ -32,4 +32,5 @@ def gameframe(xmove):
                                                 x.pack(anchor=NW)
 
                                                     ~ canvas
-                                                    
+                                                        w = Canvas(app, width=800, height=400)
+                                                        
