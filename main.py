@@ -28,4 +28,5 @@ def gameframe(xmove):
                                     app.title("TypeRacer")
 
                                         ~ text area
-                                        
+                                            x = Text(app, height = 8, width = 70 , bg = "~90cb8d")
+                                            
