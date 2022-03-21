@@ -62,4 +62,5 @@ def gameframe(xmove):
                                                                                                                                                                                             frame6.destroy()
                                                                                                                                                                                                     move()
 
-                                                                                                                                                                                                    
+                                                                                                                                                                                                        def destroy_frame5():
+                                                                                                                                                                                                            
