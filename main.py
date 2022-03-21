@@ -8,3 +8,4 @@ root = Tk()
 
 ~ variable assignment
 speed1 = 0
+count = 0
