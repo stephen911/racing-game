@@ -52,4 +52,5 @@ def gameframe(xmove):
                                                                                                                                                         photo3 = PhotoImage(file="road4.png")
                                                                                                                                                             w.create_image(55, 65, image=photo3)
 
-                                                                                                                                                            
+                                                                                                                                                                photo1 = PhotoImage(file="carb.png")
+                                                                                                                                                                
